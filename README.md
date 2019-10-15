@@ -11,7 +11,7 @@
 
 ## Document
 
-[算法](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/%E7%AE%97%E6%B3%95.md)
+[算法](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/%E7%AE%97%E6%B3%95.md)
 
 ## Catalogue
 
@@ -27,9 +27,6 @@
 | ---- Hanoi                         // 汉诺塔
 | ---- Huffman                       // 哈夫曼编码
 | Queue                              // 队列
-| Scheduling
-| ---- FCFS                          // 先来先服务调度算法
-| ---- SJF                           // 最短进程优先调度算法
 | Searching
 | ---- OrderedST
 | -------- BinarySearchOrderedST     // 二分查找实现的有序符号表
@@ -59,7 +56,7 @@
 | ---- BinarySearch                  // 二分查找
 | ---- RatioTest                     // 倍率实验
 | ---- StopWatch                     // 计时器
-| ---- ThreeSumBinarySearch                  // 改进的 ThreeSum
+| ---- ThreeSumBinarySearch          // 改进的 ThreeSum
 | ---- ThreeSumSlow                  // 未改进的 ThreeSum
 | Union-Find
 | ---- QuickFindUF                   // 快速查找并查集
@@ -68,3 +65,5 @@
 
 
 ```
+
+Created my free logo at LogoMakr.com @logomakr
